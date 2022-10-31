@@ -3,10 +3,4 @@ Minna: tälläinen tästä nyt tuli
 Otto: juupase juu
 Rane: kyllä näin on
 Eli ei tämän kummempaa proosaa, kunhan vain jokainen päivittelee yhtäaikaa tätä tiedostoa.
-<<<<<<< HEAD
-pööölpoaokdfpskapo
-=======
-
-* Tämän tekstin lisäsi Sauli *
-*MOI MOI SAULI AKI TÄÄLLÄ!!!!
->>>>>>> afcc5242b74dca315928f69acb490de5a5f924e6
+jee
